@@ -3,9 +3,7 @@ import WikiClone from './components/WikiClone.vue'
 </script>
 
 <template>
-  <div>
-    <WikiClone />
-  </div>
+  <WikiClone />
 </template>
 
 <style scoped></style>
